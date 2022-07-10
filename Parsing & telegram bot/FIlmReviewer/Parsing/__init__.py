@@ -1,3 +1,3 @@
-from .parse import *
+from .films_add import *
 from .parse_one import *
-from .result import *
+from .get_img import *
